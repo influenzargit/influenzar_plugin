@@ -3,7 +3,7 @@
  * Plugin Name: Influenza r
  * Plugin URI: http://www.influenzar.com
  * Description: Funções Adicionais
- * Version: 1.5
+ * Version: 1.6
  * Author: Joe
  * Author URI: http://www.influenzar.com
  */
