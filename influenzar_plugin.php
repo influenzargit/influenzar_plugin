@@ -36,7 +36,7 @@ function influenza_plugin_instructions_callback() {
     <div class="wrap">
         <h1>Influenza r</h1>
 		 <p><b>Instruções</b></p>
-		 <p>Lista de atalhos</p>
+		 <p>Lista de atalhos:</p>
 		[titulo] - Adiciona o nome da página<br>
 		[category] - Adiciona o nome da categoria<br>
 		[ano] - Adiciona o ano atual<br>
