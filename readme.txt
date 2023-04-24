@@ -1,4 +1,4 @@
-=== Influenza r ===
+   === Influenza r ===
    Contributors: Joe
    Donate link: www.influenzar.com
    Requires at least: 6
